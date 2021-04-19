@@ -1,0 +1,16 @@
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\Assingment.exe
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\Assingment.deps.json
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\Assingment.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\Assingment.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\Assingment.dll
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\ref\Assingment.dll
+C:\Users\ABDUL MATEEN\Desktop\Assingment\bin\Debug\net5.0\Assingment.pdb
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.dll
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\ref\Assingment.dll
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.pdb
+C:\Users\ABDUL MATEEN\Desktop\Assingment\obj\Debug\net5.0\Assingment.genruntimeconfig.cache
