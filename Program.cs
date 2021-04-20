@@ -6,37 +6,55 @@ namespace Assingment
     {
         static void Main(string[] args)
         {
-            // Num3.Mymethod();
+          
 
-            // Num4.Method();
+            Num1.DivisionofTwoNumers();
 
-            // Num6.Century();
+            Num2.SwapingofTwoNumbers();
 
-            // Num7.sort();
+            Num3.PrintMultipleofSeven();
+            
+            Num4.myCalculator();
 
-            //Num1.Num233();
+            Num5.RevercetheWordofaSectence();
 
-            //Num2.Num();
+            Num6.Multiplication();
 
-            // Num3.Mymethod();
+            Num7.ComputetheSumOfAnIneger();
 
-            //Quiz1.Quadratic();
+            Num8.FromCelciusTofarenheit();
 
-            // Quiz2.StopWatch();
+            Num9.RemoveIndex();
 
-            // Num13.Num12();
+            Num11.ComputeThesumAGivenIn();
 
-            // Num2 num = new Num2();
-            // Console.Write("Enter Number: ");
-            // double argNum1 = Convert.ToInt32(Console.ReadLine());
+            Num12.MultiplyTheArrays();
 
-            // Console.Write("Enter Arthemetic operator: ");
-            // string arth = Console.ReadLine();
+            Num13.CheckingLongestWordInAnArray();
 
-            // Console.Write("Enter Number: ");
-            // double argNum2 = Convert.ToInt32(Console.ReadLine());
+            Num14.checkifagivenpositivenumber();
 
-            // Class3.Jagaban(arth, argNum1, argNum2);
+            Num15.FindingTheHighestNumber();
+
+            Num16.Creatinganewstring();
+
+            Num16.test();
+
+            Num17.computethesumofalltheelementsofanarrayofintegers();
+
+            Num18.checkifthefirstelementandthelastelementareequal();
+
+            Num20.CHeckTheCenturyFromYear();
+
+            Num22.Checkingifagivennumberexistsinanarray();
+            
+            Quiz1.Quadratic();
+
+            Quiz2.StopWatch();
+
+            Num13.Num12();
+
+           
             
 
              Quiz2 quiz2 = new Quiz2();

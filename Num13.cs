@@ -4,7 +4,7 @@ namespace Assingment
 {
     public class Num13
     {
-        public static void Num12()
+        public static void CheckingLongestWordInAnArray()
         {   
             string line = "oh my god am fucking tired off this trash";
             string[] words = line.Split(new[] { " " }, StringSplitOptions.None);

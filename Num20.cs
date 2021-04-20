@@ -1,17 +1,17 @@
-// using System;
+using System;
 
-// namespace Assingment
-// {
-//     public class Num20
-//     {
-//         public static void CEnt()
-//         {
-//             Console.Write("enter your year: ");
-//             int year = Convert.ToInt32(Console.ReadLine());
+namespace Assingment
+{
+    public class Num20
+    {
+        public static void CHeckTheCenturyFromYear()
+        {
+            Console.Write("enter your year: ");
+            int year = Convert.ToInt32(Console.ReadLine());
 
-//             int total = year / 100 + 1;
+            int total = year / 100 + 1;
 
-//             Console.WriteLine(total);
-//         }
-//     }
-// }
+            Console.WriteLine(total);
+        }
+    }
+}

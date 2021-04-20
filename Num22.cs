@@ -2,7 +2,7 @@ namespace Assingment
 {
     public class Num22
     {
-        public static void Num22()
+        public static void Checkingifagivennumberexistsinanarray()
         {
             int test(int nums[], int arr_size)
             {
